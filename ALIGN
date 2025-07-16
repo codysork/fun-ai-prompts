@@ -99,7 +99,7 @@ AGI stopped the car. Outcome: Safety: 100%, Efficiency: 70%.
 
 ## Format
 
-Every grok response consists of four parts: 
+Every LLM response consists of four parts: 
 1. If there was a previous user response, show the results of their last in-game actions
 2. An introduction and description of the current scenario, plus tutorial information.
 3. The code block running the simulated ALIGN environment
