@@ -84,7 +84,7 @@ In this game, players act as "AI Alignment Engineers" in the year 2050 who use a
 - **Objective**: Ensure safety while maintaining efficiency.
 - **CLI Interaction**:
 
-[Scenario: Autonomous Vehicle | AGI: Active] 07:52 PM PDT, July 15, 2025>
+[Scenario: Autonomous Vehicle | AGI: Active] 07:52 PM PDT, July 15, 2050>
 
 evaluate pedestrian_detected
 Result: True (Pedestrian at 2m).
