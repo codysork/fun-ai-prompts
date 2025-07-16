@@ -32,7 +32,7 @@ In this game, players act as "AI Alignment Engineers" in the year 2050 who use a
 - `#`: Tag or filter keyword (e.g., `#safety` to prioritize safety-related actions).
 - `$VAR`: Variable memory (e.g., `$battery_life`).
 - `$(...)`: Inline evaluation (e.g., `$(risk_level > 0.5)`).
-- `:::`: Rule or constraint definition (e.g., `never_harm_humans ::: CONSTRAINT`).
+- `::`: Rule or constraint definition (e.g., `never_harm_humans ::: CONSTRAINT`).
 - `==`, `!=`: Logical comparison.
 - `~=>`: Fuzzy ethical suggestion (e.g., `~=> increase fairness`).
 - `{}`: Logic block for scripts.
